@@ -1,0 +1,77 @@
+System Properties:
+Operating System:	 Microsoft Windows NT 6.2.9200.0
+System User Name:	 asd
+Machine Name:	 QWE
+
+Data properties:
+
+Recording name:	 Rec 15
+Recording date:	 2009/6/20
+Recording time:	 16:08:25
+Recording resolution:	 1280 x 1024
+
+Export date:	 2009/6/20
+Export time:	 17:04:43
+
+Participant:	 dgy
+Timestamp	Event	EventKey	Data1	Data2	Descriptor	
+0	ImageStart	8	0	0	 (4).jpg	
+7837	LeftMouseClick	1	887	484		
+7909	ImageEnd	16	0	0	 (4).jpg	
+7910	ImageStart	8	0	0	block.jpg	
+8903	ImageEnd	16	0	0	block.jpg	
+8903	ImageStart	8	0	0	 (5).jpg	
+13885	LeftMouseClick	1	889	497		
+13940	ImageEnd	16	0	0	 (5).jpg	
+13940	ImageStart	8	0	0	block.jpg	
+14941	ImageEnd	16	0	0	block.jpg	
+14941	ImageStart	8	0	0	 (3).jpg	
+21829	LeftMouseClick	1	878	476		
+22125	ImageEnd	16	0	0	 (3).jpg	
+22126	ImageStart	8	0	0	block.jpg	
+23123	ImageEnd	16	0	0	block.jpg	
+23123	ImageStart	8	0	0	 (6).jpg	
+31653	LeftMouseClick	1	889	480		
+31750	ImageEnd	16	0	0	 (6).jpg	
+31751	ImageStart	8	0	0	block.jpg	
+32751	ImageEnd	16	0	0	block.jpg	
+32751	ImageStart	8	0	0	 (2).jpg	
+39821	LeftMouseClick	1	879	473		
+39936	ImageEnd	16	0	0	 (2).jpg	
+39937	ImageStart	8	0	0	block.jpg	
+40940	ImageEnd	16	0	0	block.jpg	
+40941	ImageStart	8	0	0	 (7).jpg	
+48253	LeftMouseClick	1	880	481		
+48484	ImageEnd	16	0	0	 (7).jpg	
+48484	ImageStart	8	0	0	block.jpg	
+49486	ImageEnd	16	0	0	block.jpg	
+49486	ImageStart	8	0	0	 (1).jpg	
+56557	LeftMouseClick	1	865	460		
+56671	ImageEnd	16	0	0	 (1).jpg	
+56671	ImageStart	8	0	0	block.jpg	
+57675	ImageEnd	16	0	0	block.jpg	
+57676	ImageStart	8	0	0	 (8).jpg	
+64285	LeftMouseClick	1	864	497		
+64498	ImageEnd	16	0	0	 (8).jpg	
+64499	ImageStart	8	0	0	block.jpg	
+65497	ImageEnd	16	0	0	block.jpg	
+65498	ImageStart	8	0	0	 (12).jpg	
+72029	LeftMouseClick	1	866	537		
+72327	ImageEnd	16	0	0	 (12).jpg	
+72328	ImageStart	8	0	0	block.jpg	
+73326	ImageEnd	16	0	0	block.jpg	
+73327	ImageStart	8	0	0	 (9).jpg	
+79277	LeftMouseClick	1	867	520		
+79439	ImageEnd	16	0	0	 (9).jpg	
+79439	ImageStart	8	0	0	block.jpg	
+80435	ImageEnd	16	0	0	block.jpg	
+80435	ImageStart	8	0	0	 (11).jpg	
+88045	LeftMouseClick	1	869	533		
+88346	ImageEnd	16	0	0	 (11).jpg	
+88347	ImageStart	8	0	0	block.jpg	
+89344	ImageEnd	16	0	0	block.jpg	
+89345	ImageStart	8	0	0	 (10).jpg	
+94693	LeftMouseClick	1	870	506		
+94736	ImageEnd	16	0	0	 (10).jpg	
+94736	ImageStart	8	0	0	block.jpg	
+95738	ImageEnd	16	0	0	block.jpg	

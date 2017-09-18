@@ -1,0 +1,77 @@
+System Properties:
+Operating System:	 Microsoft Windows NT 6.2.9200.0
+System User Name:	 asd
+Machine Name:	 QWE
+
+Data properties:
+
+Recording name:	 Rec 17
+Recording date:	 2009/6/20
+Recording time:	 16:21:21
+Recording resolution:	 1280 x 1024
+
+Export date:	 2009/6/20
+Export time:	 17:04:44
+
+Participant:	 mxn
+Timestamp	Event	EventKey	Data1	Data2	Descriptor	
+0	ImageStart	8	0	0	 (6).jpg	
+3024	LeftMouseClick	1	971	825		
+3232	ImageEnd	16	0	0	 (6).jpg	
+3233	ImageStart	8	0	0	block.jpg	
+4236	ImageEnd	16	0	0	block.jpg	
+4237	ImageStart	8	0	0	 (7).jpg	
+6393	LeftMouseClick	1	971	825		
+6750	ImageEnd	16	0	0	 (7).jpg	
+6751	ImageStart	8	0	0	block.jpg	
+7747	ImageEnd	16	0	0	block.jpg	
+7748	ImageStart	8	0	0	 (5).jpg	
+9889	LeftMouseClick	1	971	825		
+9908	ImageEnd	16	0	0	 (5).jpg	
+9909	ImageStart	8	0	0	block.jpg	
+10912	ImageEnd	16	0	0	block.jpg	
+10912	ImageStart	8	0	0	 (8).jpg	
+15015	LeftMouseClick	1	971	825		
+15218	ImageEnd	16	0	0	 (8).jpg	
+15218	ImageStart	8	0	0	block.jpg	
+16225	ImageEnd	16	0	0	block.jpg	
+16226	ImageStart	8	0	0	 (4).jpg	
+19081	LeftMouseClick	1	971	825		
+19095	ImageEnd	16	0	0	 (4).jpg	
+19095	ImageStart	8	0	0	block.jpg	
+20099	ImageEnd	16	0	0	block.jpg	
+20100	ImageStart	8	0	0	 (9).jpg	
+23264	LeftMouseClick	1	971	825		
+23326	ImageEnd	16	0	0	 (9).jpg	
+23327	ImageStart	8	0	0	block.jpg	
+24326	ImageEnd	16	0	0	block.jpg	
+24326	ImageStart	8	0	0	 (3).jpg	
+29048	LeftMouseClick	1	971	825		
+29362	ImageEnd	16	0	0	 (3).jpg	
+29363	ImageStart	8	0	0	block.jpg	
+30358	ImageEnd	16	0	0	block.jpg	
+30358	ImageStart	8	0	0	 (10).jpg	
+33615	LeftMouseClick	1	971	825		
+33954	ImageEnd	16	0	0	 (10).jpg	
+33954	ImageStart	8	0	0	block.jpg	
+34957	ImageEnd	16	0	0	block.jpg	
+34957	ImageStart	8	0	0	 (2).jpg	
+37832	LeftMouseClick	1	971	825		
+38184	ImageEnd	16	0	0	 (2).jpg	
+38185	ImageStart	8	0	0	block.jpg	
+39194	ImageEnd	16	0	0	block.jpg	
+39195	ImageStart	8	0	0	 (11).jpg	
+43263	LeftMouseClick	1	971	825		
+43502	ImageEnd	16	0	0	 (11).jpg	
+43502	ImageStart	8	0	0	block.jpg	
+44503	ImageEnd	16	0	0	block.jpg	
+44504	ImageStart	8	0	0	 (1).jpg	
+48295	LeftMouseClick	1	971	825		
+48455	ImageEnd	16	0	0	 (1).jpg	
+48456	ImageStart	8	0	0	block.jpg	
+49460	ImageEnd	16	0	0	block.jpg	
+49461	ImageStart	8	0	0	 (12).jpg	
+54463	LeftMouseClick	1	971	825		
+54486	ImageEnd	16	0	0	 (12).jpg	
+54487	ImageStart	8	0	0	block.jpg	
+55486	ImageEnd	16	0	0	block.jpg	

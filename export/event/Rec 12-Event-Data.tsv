@@ -1,0 +1,77 @@
+System Properties:
+Operating System:	 Microsoft Windows NT 6.2.9200.0
+System User Name:	 asd
+Machine Name:	 QWE
+
+Data properties:
+
+Recording name:	 Rec 12
+Recording date:	 2009/6/20
+Recording time:	 15:22:36
+Recording resolution:	 1280 x 1024
+
+Export date:	 2009/6/20
+Export time:	 17:04:43
+
+Participant:	 xj
+Timestamp	Event	EventKey	Data1	Data2	Descriptor	
+0	ImageStart	8	0	0	 (1).jpg	
+5075	LeftMouseClick	1	788	713		
+5380	ImageEnd	16	0	0	 (1).jpg	
+5381	ImageStart	8	0	0	block.jpg	
+6382	ImageEnd	16	0	0	block.jpg	
+6382	ImageStart	8	0	0	 (2).jpg	
+12267	LeftMouseClick	1	788	713		
+12488	ImageEnd	16	0	0	 (2).jpg	
+12489	ImageStart	8	0	0	block.jpg	
+13497	ImageEnd	16	0	0	block.jpg	
+13497	ImageStart	8	0	0	 (12).jpg	
+21075	LeftMouseClick	1	788	713		
+21399	ImageEnd	16	0	0	 (12).jpg	
+21399	ImageStart	8	0	0	block.jpg	
+22400	ImageEnd	16	0	0	block.jpg	
+22400	ImageStart	8	0	0	 (3).jpg	
+28851	LeftMouseClick	1	788	713		
+28863	ImageEnd	16	0	0	 (3).jpg	
+28863	ImageStart	8	0	0	block.jpg	
+29872	ImageEnd	16	0	0	block.jpg	
+29872	ImageStart	8	0	0	 (11).jpg	
+36883	LeftMouseClick	1	788	713		
+37052	ImageEnd	16	0	0	 (11).jpg	
+37055	ImageStart	8	0	0	block.jpg	
+38056	ImageEnd	16	0	0	block.jpg	
+38056	ImageStart	8	0	0	 (4).jpg	
+45811	LeftMouseClick	1	788	713		
+45959	ImageEnd	16	0	0	 (4).jpg	
+45959	ImageStart	8	0	0	block.jpg	
+46961	ImageEnd	16	0	0	block.jpg	
+46961	ImageStart	8	0	0	 (10).jpg	
+52835	LeftMouseClick	1	788	713		
+53070	ImageEnd	16	0	0	 (10).jpg	
+53070	ImageStart	8	0	0	block.jpg	
+54067	ImageEnd	16	0	0	block.jpg	
+54067	ImageStart	8	0	0	 (5).jpg	
+59228	LeftMouseClick	1	788	713		
+59457	ImageEnd	16	0	0	 (5).jpg	
+59458	ImageStart	8	0	0	block.jpg	
+60464	ImageEnd	16	0	0	block.jpg	
+60465	ImageStart	8	0	0	 (9).jpg	
+66171	LeftMouseClick	1	788	713		
+66213	ImageEnd	16	0	0	 (9).jpg	
+66213	ImageStart	8	0	0	block.jpg	
+67210	ImageEnd	16	0	0	block.jpg	
+67211	ImageStart	8	0	0	 (6).jpg	
+72907	LeftMouseClick	1	788	713		
+72957	ImageEnd	16	0	0	 (6).jpg	
+72957	ImageStart	8	0	0	block.jpg	
+73966	ImageEnd	16	0	0	block.jpg	
+73967	ImageStart	8	0	0	 (8).jpg	
+79891	LeftMouseClick	1	788	713		
+80070	ImageEnd	16	0	0	 (8).jpg	
+80071	ImageStart	8	0	0	block.jpg	
+81068	ImageEnd	16	0	0	block.jpg	
+81069	ImageStart	8	0	0	 (7).jpg	
+86475	LeftMouseClick	1	788	713		
+86817	ImageEnd	16	0	0	 (7).jpg	
+86818	ImageStart	8	0	0	block.jpg	
+87820	ImageEnd	16	0	0	block.jpg	
